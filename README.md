@@ -4,6 +4,6 @@ in this C programming language project, i aimed to create word search game proje
 
 ## How to run:
 
-you can Run it simply with cloning this repository and inside Debug folder there is Word Search.exe (../Debug/WordSearch.exe)
+You can run it simply with cloning this repository and running the Word Search.exe in Debug folder (../Debug/WordSearch.exe)
 
 ![Örnek Resim](/WordSearch.png)
